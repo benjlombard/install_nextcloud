@@ -5,12 +5,21 @@ Modify the following variables at the beginning of the script :
 
 
 db_root_password=""
+
 domain=""
+
 loginAdminNC=""
+
 passwdAdminNC=""
+
 databaseNameNC=""
+
 databaseUserNC=""
+
 databasePasswdNC=""
+
 mailAdminNC=""
+
 userSystemNC=""
+
 pwdSystemNC=""
